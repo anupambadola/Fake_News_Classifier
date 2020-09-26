@@ -1,1 +1,1 @@
-# Fake_News_Classifier
+# This is the fake news classification model development by machine learning as well as deep learning modelling. At first the neural network was giving stagnent accuracy but after few changes the accuracy changed. Sorry, for not labelling the notebook cells as it was just a rough model development.
